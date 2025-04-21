@@ -71,10 +71,7 @@ export default function ExampleForm() {
     schema,
     action: submitForm,
     defaultValues: { email: "", password: "" },
-    successToast: true, // Enable success toast
-    errorToast: true,   // Enable error toast
-    onSuccess: (state) => toast.success(state.message),
-    onError: (state) => toast.error(state.message),
+    redirectUrl: "/dashboard",
   });
 
   return (
