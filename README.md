@@ -333,7 +333,7 @@ interface ServerActionState {
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/twilight04/react-server-action-form-hook/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/twilight04/react-server-action-form-hook/blob/master/LICENSE.txt) file for details.
 
 ## Bugs & Issues
 
