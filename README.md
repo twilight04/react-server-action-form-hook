@@ -25,16 +25,16 @@ yarn add react-server-action-form-hook
 
 Ensure you have the following peer dependencies installed in your project:
 
-- `@hookform/resolvers`: `^3.9.0` (or compatible version for Zod v5)
-- `next`: `^14.0.0` (or newer versions supporting Server Actions)
-- `react`: `^18.2.0`
-- `react-hook-form`: `^7.50.0`
-- `sonner`: `^1.0.0`
-- `zod`: `^3.20.0`
+- `@hookform/resolvers`: `^5.0.1` (or compatible version for Zod v5)
+- `next`: `^15.3.1 || ^16.0.0` (or newer versions supporting Server Actions)
+- `react`: `^19.1.0`
+- `react-hook-form`: `^7.56.0`
+- `sonner`: `^2.0.3`
+- `zod`: `^3.24.3`
 
 Optional peer dependency for the top loader feature:
 
-- `nextjs-toploader`: `^1.6.0`
+- `nextjs-toploader`: `^3.8.16`
 
 _Note: Version numbers are examples; ensure compatibility with your project._
 
